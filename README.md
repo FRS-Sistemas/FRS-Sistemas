@@ -10,20 +10,20 @@ Nossa empresa tem um histórico de mais de 10 anos criando soluções de alta qu
 
 O melhor software para pesagem de veículos em balança rodoviária.
 
-![Pesagem](https://www.frssistemas.com.br/src/img/balanca.jpg)
+## <img src="https://www.frssistemas.com.br/src/img/balanca.jpg" alt="Pesagem" width="300"/>
 
 ### Frotas
 
 Aplicação para controle de frotas, saiba quantos km seus veículos estão rodando e muito mais
 
-![Frotas](https://www.frssistemas.com.br/src/img/frotas.jpg)
+## <img src="https://www.frssistemas.com.br/src/img/frotas.jpg" alt="Frotas" width="300"/>
 
 ### Fila Online
 
 Não sabe oque fazer com tantos clientes em seu patio?
 Organize o patio da sua empresa com a fila de atendimento online
 
-![Fila Online](https://www.frssistemas.com.br/src/img/filaonline.jpg)
+## <img src="https://www.frssistemas.com.br/src/img/filaonline.jpg" alt="Fila Online" width="300"/>
 
 ### Questionários
 
@@ -31,20 +31,20 @@ Crie questionários personalizados para coletar dados, conduzir auditorias e ana
 
 Coleta de dados offline em dispositivos móveis, envio de auditorias via e-mail e WhatsApp, cálculo automático dos resultados da auditoria e análise gráfica dos dados coletados.
 
-![Questionários](https://www.frssistemas.com.br/src/img/questionarios.jpg)
+## <img src="https://www.frssistemas.com.br/src/img/questionarios.jpg" alt="Questionários" width="300"/>
 
 ### Hora Extra
 
 Quer adicionar hora extra no seu modelo de negócio e não sabe oque fazer?
 Contrate - nos e organize as horas extras trabalhadas.
 
-![Hora Extra](https://www.frssistemas.com.br/src/img/horaextra.jpg)
+## <img src="https://www.frssistemas.com.br/src/img/horaextra.jpg" alt="Hora Extra" width="300"/>
 
 ### Produção
 
 Controle todos os setores da sua produção com relatórios diários dos processos realizados
 
-![Produção](https://www.frssistemas.com.br/src/img/producao.jpg)
+## <img src="https://www.frssistemas.com.br/src/img/producao.jpg" alt="Produção" width="300"/>
 
 ## Quem somos
 
