@@ -11,7 +11,6 @@ Nossa empresa tem um histórico de mais de 10 anos criando soluções de alta qu
 O melhor software para pesagem de veículos em balança rodoviária.
 
 ![Pesagem](https://www.frssistemas.com.br/src/img/balanca.jpg)
-<img src="https://www.frssistemas.com.br/src/img/balanca.jpg" alt="Logo da Minha Empresa">
 
 ### Frotas
 
